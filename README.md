@@ -19,10 +19,14 @@
 ## Language Statistics
 
 <div style="background-color: black; border: 2px solid blue; padding: 10px; border-radius: 8px;">
-  <h2 style="color: black;">Overall Language Statistics</h2>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NandiniBhattad13" alt="Your Overall Language Stats" />
-</div
+</div>
   
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 
 <!---
