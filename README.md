@@ -10,7 +10,7 @@
 # 🌐SOCIALS
 
 <a href="https://linkedin.com/in/nandini bhattad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nandini bhattad" height="30" width="40" /></a>
-<a href="https://instagram.com/nandinisb_13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nandinisb_13" height="30" width="40" /></a>
+<a href="https://instagram.com/nandinisb_13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nandinisb_13" height="30" width="40" /></a>   ![coding](https://github.com/NandiniBhattad13/NandiniBhattad13/assets/141108583/a57a877b-dfe5-4d1d-abf3-44db9ce22393) 
 
 
 # 🧰Tools I use to code 
@@ -20,9 +20,6 @@
 
 ## GitHub Contributions
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=NandiniBhattad13&theme=dark" alt="GitHub Streak" /></a>
-
-
-![coding](https://github.com/NandiniBhattad13/NandiniBhattad13/assets/141108583/a57a877b-dfe5-4d1d-abf3-44db9ce22393) 
 
 
 <!---
