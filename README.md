@@ -13,7 +13,8 @@
 <a href="https://instagram.com/nandinisb_13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nandinisb_13" height="30" width="40" /></a>
 
 
-<img align="right" height="150" src="![coding](https://github.com/NandiniBhattad13/NandiniBhattad13/assets/141108583/fd47560e-5ad0-4c58-9968-0607818f2593)"  />
+![Uploading coding.gif…]()
+
 
 
 
