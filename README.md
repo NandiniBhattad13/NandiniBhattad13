@@ -9,6 +9,8 @@
 
 # 🌐SOCIALS
 
+<a href="www.linkedin.com/in/nandini-bhattad-523824225" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40"/></a>
+
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nandini-bhattad-523824225)
