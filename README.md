@@ -19,7 +19,7 @@
 ## Language Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NandiniBhattad13&layout=compact" alt="Top Languages" />
 </div>
   
 
