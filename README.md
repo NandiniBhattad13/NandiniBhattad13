@@ -15,6 +15,12 @@
 # WHAT I CODE WITH
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NandiniBhattad13&layout=compact)](https://github.com/NandiniBhattad13)
+
+## Language Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact" alt="Top Languages" />
+</div>
   
 
 
