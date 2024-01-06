@@ -1,3 +1,5 @@
+
+#ABOUT ME
 - 👋 Hi, I’m Nandini Bhattad
 - 👀 I’m an applied Statitics and ML enthusiast!
 - 🌱 I’m currently studying Statitics and Data Science at the Indian Institute of Technology, Kanpur
