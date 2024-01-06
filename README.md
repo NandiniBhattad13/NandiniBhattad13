@@ -22,6 +22,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NandiniBhattad13&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+## GitHub Contributions
+
+![Total Contributions](https://github.com/NandiniBhattad13/NandiniBhattad13/blob/main/assets/badges/contributions.svg)
+![Current Streak](https://github.com/NandiniBhattad13/NandiniBhattad13/blob/main/assets/badges/streak-current.svg)
+![Longest Streak](https://github.com/NandiniBhattad13/NandiniBhattad13/blob/main/assets/badges/streak-longest.svg)
+
+
 
 <!---
 NandiniBhattad13/NandiniBhattad13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
