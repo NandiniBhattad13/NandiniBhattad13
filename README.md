@@ -19,7 +19,7 @@
 ## Language Statistics
 
 <div style="background-color: black; border: 2px solid blue; padding: 10px; border-radius: 8px;">
-  <h2 style="color: white;">Overall Language Statistics</h2>
+  <h2 style="color: black;">Overall Language Statistics</h2>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NandiniBhattad13" alt="Your Overall Language Stats" />
 </div
   
