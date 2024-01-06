@@ -13,6 +13,7 @@
 <a href="https://instagram.com/nandinisb_13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nandinisb_13" height="30" width="40" /></a>
 
 
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 
 # 🧰Tools I use to code 
