@@ -24,10 +24,6 @@
 
 ## GitHub Contributions
 
-![Total Contributions](https://github.com/NandiniBhattad13/NandiniBhattad13/blob/main/assets/badges/contributions.svg)
-![Current Streak](https://github.com/NandiniBhattad13/NandiniBhattad13/blob/main/assets/badges/streak-current.svg)
-![Longest Streak](https://github.com/NandiniBhattad13/NandiniBhattad13/blob/main/assets/badges/streak-longest.svg)
-
 
 
 <!---
